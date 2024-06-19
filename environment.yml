@@ -11,7 +11,7 @@ dependencies:
   - matplotlib
   - scikit-learn
   - numpy
-  - r-dpylyr
+  - r-dplyr
   - r-ggplot2
   - r-tidyverse
   - r-plotly
